@@ -1,0 +1,1 @@
+file=./SpriteImage/en-gb/loading.spr, xl=2048, yl=2048 ,format=21<-텍스쳐 생성 실패. not support!
